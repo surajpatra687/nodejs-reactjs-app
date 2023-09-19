@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/nodejs-app
+     image : surajpatra687/nodejs-app
      ports :
          - "3000:3000"
