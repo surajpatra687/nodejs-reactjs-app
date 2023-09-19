@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : trainwithshubham/nodejs-app
      ports :
-         - "8000:8000"
+         - "3000:3000"
